@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaterialDesign</string>
+    <string name="editTextEmail">Correo electrónico</string>
+    <string name="editTextPassword">Contraseña</string>
+    <string name="buttonEnter">INGRESAR</string>
+    <string name="buttonForgotPassword">Olvidé mi contraseña</string>
+</resources>
