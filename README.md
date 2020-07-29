@@ -1,4 +1,4 @@
-# MaterialDesign
+# Petagram
 
 Proyecto creado en android studio con el fin de aplicar los conocimientos hasta ahora adquiridos sobre material design del curso Desarrollo de aplicaciones móviles con Android.
 
